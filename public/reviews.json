@@ -1,0 +1,63 @@
+[
+    {
+      "_id": 1,
+      "name": "Alice Johnson",
+      "details": "I had an absolutely wonderful experience! The service was outstanding, and the team was very professional. From start to finish, everything was handled smoothly, and they ensured I was completely satisfied with the final result. Highly recommended!",
+      "rating": 5
+    },
+    {
+      "_id": 2,
+      "name": "Michael Smith",
+      "details": "Great quality and fast delivery! I was impressed by how efficiently they managed everything. The attention to detail in their service is truly commendable. The product exceeded my expectations, and I will definitely be a returning customer.",
+      "rating": 4.5
+    },
+    {
+      "_id": 3,
+      "name": "Sophia Williams",
+      "details": "The product was fantastic! It was exactly as described, and the quality was exceptional. I was a bit skeptical at first, but after using their service, I am completely satisfied. Will definitely order again and recommend it to my friends!",
+      "rating": 5
+    },
+    {
+      "_id": 4,
+      "name": "James Anderson",
+      "details": "Overall, it was a good experience. The team was cooperative, and the product was of good quality. However, there were minor delays in communication, which could be improved. Despite that, I would still recommend their services as they delivered exactly what I needed.",
+      "rating": 4
+    },
+    {
+      "_id": 5,
+      "name": "Emma Brown",
+      "details": "Exceptional service! The team was very responsive and took care of every small detail. The product quality was beyond my expectations, and the packaging was excellent. It felt like they genuinely care about their customers. Absolutely love it!",
+      "rating": 5
+    },
+    {
+      "_id": 6,
+      "name": "Oliver Wilson",
+      "details": "Everything was perfect except for a small issue with packaging. The product itself was fantastic, and the customer service was responsive and helpful. If they can improve the packaging quality, this would be a 5-star experience for sure!",
+      "rating": 4.2
+    },
+    {
+      "_id": 7,
+      "name": "Charlotte Martinez",
+      "details": "I had a great experience with this company! The staff was friendly, and they answered all my queries promptly. The product was delivered on time, and it matched the description perfectly. I am very satisfied and will definitely come back again.",
+      "rating": 4.8
+    },
+    {
+      "_id": 8,
+      "name": "Liam Taylor",
+      "details": "The ordering process was smooth, and the product was exactly as described. I appreciate how user-friendly their website is, making it easy to navigate and place an order. I will surely be using their service again in the future!",
+      "rating": 4.7
+    },
+    {
+      "_id": 9,
+      "name": "Mia Thomas",
+      "details": "A fantastic experience from start to finish! Their customer service is top-notch, and they made sure I was satisfied with my purchase. I love how they pay attention to every little detail. I will definitely recommend them to my friends and family!",
+      "rating": 5
+    },
+    {
+      "_id": 10,
+      "name": "Noah Harris",
+      "details": "Good value for the price! The product quality was decent, and it arrived in good condition. I had a few minor concerns, but the support team was quick to respond and resolve them. Overall, I would use their service again.",
+      "rating": 4.3
+    }
+  ]
+  
