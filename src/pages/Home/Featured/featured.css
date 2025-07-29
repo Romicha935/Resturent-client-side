@@ -1,0 +1,5 @@
+.featured-item{
+    background-image: url(../../../assets/bannerImg/featuredbackground.jpeg);
+    background-size: cover;
+    background-position: center;
+}
