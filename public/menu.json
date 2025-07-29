@@ -1,0 +1,290 @@
+[
+  {
+    "_id": 1,
+    "name": "Salad 1",
+    "price": 150,
+    "recipe": "Lettuce, tomatoes, cucumber, olives",
+    "image": "salad1.jpg",
+    "category": "Salad"
+  },
+  {
+    "_id": 2,
+    "name": "Salad 2",
+    "price": 160,
+    "recipe": "Spinach, nuts, cheese, dressing",
+    "image": "salad2.jpg",
+    "category": "Salad"
+  },
+  {
+    "_id": 3,
+    "name": "Salad 3",
+    "price": 170,
+    "recipe": "Cabbage, carrots, vinaigrette",
+    "image": "salad3.jpg",
+    "category": "Salad"
+  },
+  {
+    "_id": 4,
+    "name": "Salad 4",
+    "price": 180,
+    "recipe": "Cucumber, bell peppers, herbs",
+    "image": "salad4.jpg",
+    "category": "Salad"
+  },
+  {
+    "_id": 5,
+    "name": "Salad 5",
+    "price": 190,
+    "recipe": "Avocado, tomatoes, onions, dressing",
+    "image": "salad5.jpg",
+    "category": "Salad"
+  },
+  {
+    "_id": 6,
+    "name": "Salad 6",
+    "price": 200,
+    "recipe": "Mixed greens, balsamic dressing",
+    "image": "salad6.jpg",
+    "category": "Salad"
+  },
+  {
+    "_id": 7,
+    "name": "Pizza 1",
+    "price": 350,
+    "recipe": "Tomato, mozzarella, basil",
+    "image": "pizza1.jpg",
+    "category": "Pizza"
+  },
+  {
+    "_id": 8,
+    "name": "Pizza 2",
+    "price": 380,
+    "recipe": "Pepperoni, cheese, olives",
+    "image": "pizza2.jpg",
+    "category": "Pizza"
+  },
+  {
+    "_id": 9,
+    "name": "Pizza 3",
+    "price": 400,
+    "recipe": "Mushrooms, cheese, tomato sauce",
+    "image": "pizza3.jpg",
+    "category": "Pizza"
+  },
+  {
+    "_id": 10,
+    "name": "Pizza 4",
+    "price": 420,
+    "recipe": "Sausage, peppers, mozzarella",
+    "image": "pizza4.jpg",
+    "category": "Pizza"
+  },
+  {
+    "_id": 11,
+    "name": "Pizza 5",
+    "price": 440,
+    "recipe": "Olives, mushrooms, onions",
+    "image": "pizza5.jpg",
+    "category": "Pizza"
+  },
+  {
+    "_id": 12,
+    "name": "Pizza 6",
+    "price": 450,
+    "recipe": "Chicken, BBQ sauce, cheese",
+    "image": "pizza6.jpg",
+    "category": "Pizza"
+  },
+  {
+    "_id": 13,
+    "name": "Soup 1",
+    "price": 120,
+    "recipe": "Tomato, garlic, onion, spices",
+    "image": "soup1.jpg",
+    "category": "Soup"
+  },
+  {
+    "_id": 14,
+    "name": "Soup 2",
+    "price": 130,
+    "recipe": "Lentils, carrots, spices",
+    "image": "soup2.jpg",
+    "category": "Soup"
+  },
+  {
+    "_id": 15,
+    "name": "Soup 3",
+    "price": 140,
+    "recipe": "Chicken, vegetables, broth",
+    "image": "soup3.jpg",
+    "category": "Soup"
+  },
+  {
+    "_id": 16,
+    "name": "Soup 4",
+    "price": 150,
+    "recipe": "Broccoli, cheese, cream",
+    "image": "soup4.jpg",
+    "category": "Soup"
+  },
+  {
+    "_id": 17,
+    "name": "Soup 5",
+    "price": 160,
+    "recipe": "Pumpkin, spices, cream",
+    "image": "soup5.jpg",
+    "category": "Soup"
+  },
+  {
+    "_id": 18,
+    "name": "Soup 6",
+    "price": 170,
+    "recipe": "Mushrooms, cream, herbs",
+    "image": "soup6.jpg",
+    "category": "Soup"
+  },
+  {
+    "_id": 19,
+    "name": "Burger 1",
+    "price": 250,
+    "recipe": "Beef patty, lettuce, cheese, sauce",
+    "image": "burger1.jpg",
+    "category": "Burger"
+  },
+  {
+    "_id": 20,
+    "name": "Burger 2",
+    "price": 270,
+    "recipe": "Chicken patty, mayo, lettuce, cheese",
+    "image": "burger2.jpg",
+    "category": "Burger"
+  },
+  {
+    "_id": 21,
+    "name": "Burger 3",
+    "price": 290,
+    "recipe": "Veg patty, tomatoes, onions, sauce",
+    "image": "burger3.jpg",
+    "category": "Burger"
+  },
+  {
+    "_id": 22,
+    "name": "Burger 4",
+    "price": 300,
+    "recipe": "Cheese, bacon, lettuce, sauce",
+    "image": "burger4.jpg",
+    "category": "Burger"
+  },
+  {
+    "_id": 23,
+    "name": "Burger 5",
+    "price": 320,
+    "recipe": "Spicy chicken patty, sauce, veggies",
+    "image": "burger5.jpg",
+    "category": "Burger"
+  },
+  {
+    "_id": 24,
+    "name": "Burger 6",
+    "price": 330,
+    "recipe": "Double beef patty, cheese, sauce",
+    "image": "burger6.jpg",
+    "category": "Burger"
+  },
+  {
+    "_id": 25,
+    "name": "Dessert 1",
+    "price": 100,
+    "recipe": "Chocolate cake, cream",
+    "image": "dessert1.jpg",
+    "category": "Dessert"
+  },
+  {
+    "_id": 26,
+    "name": "Dessert 2",
+    "price": 120,
+    "recipe": "Vanilla ice cream, chocolate sauce",
+    "image": "dessert2.jpg",
+    "category": "Dessert"
+  },
+  {
+    "_id": 27,
+    "name": "Dessert 3",
+    "price": 130,
+    "recipe": "Fruit salad, honey",
+    "image": "dessert3.jpg",
+    "category": "Dessert"
+  },
+  {
+    "_id": 28,
+    "name": "Dessert 4",
+    "price": 140,
+    "recipe": "Panna cotta, berries",
+    "image": "dessert4.jpg",
+    "category": "Dessert"
+  },
+  {
+    "_id": 29,
+    "name": "Dessert 5",
+    "price": 150,
+    "recipe": "Cheesecake, strawberries",
+    "image": "dessert5.jpg",
+    "category": "Dessert"
+  },
+  {
+    "_id": 30,
+    "name": "Dessert 6",
+    "price": 160,
+    "recipe": "Tiramisu, cocoa powder",
+    "image": "dessert6.jpg",
+    "category": "Dessert"
+  },
+  {
+    "_id": 31,
+    "name": "Offer 1",
+    "price": 100,
+    "recipe": "Discount on combo meals",
+    "image": "offer1.jpg",
+    "category": "Offer"
+  },
+  {
+    "_id": 32,
+    "name": "Offer 2",
+    "price": 120,
+    "recipe": "Buy one get one free",
+    "image": "offer2.jpg",
+    "category": "Offer"
+  },
+  {
+    "_id": 33,
+    "name": "Offer 3",
+    "price": 150,
+    "recipe": "Free drink with meal",
+    "image": "offer3.jpg",
+    "category": "Offer"
+  },
+  {
+    "_id": 34,
+    "name": "Offer 4",
+    "price": 170,
+    "recipe": "10% off on all orders",
+    "image": "offer4.jpg",
+    "category": "Offer"
+  },
+  {
+    "_id": 35,
+    "name": "Offer 5",
+    "price": 200,
+    "recipe": "Special deal on pizza",
+    "image": "offer5.jpg",
+    "category": "Offer"
+  },
+  {
+    "_id": 36,
+    "name": "Offer 6",
+    "price": 220,
+    "recipe": "Combo offer with dessert",
+    "image": "offer6.jpg",
+    "category": "Offer"
+  }
+]
